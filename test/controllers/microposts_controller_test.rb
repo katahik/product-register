@@ -1,3 +1,4 @@
+#テストコードが自動で記載されている
 require 'test_helper'
 
 class MicropostsControllerTest < ActionDispatch::IntegrationTest
